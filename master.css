@@ -1,0 +1,10 @@
+body *{
+     margin: 0; padding: 0;
+}
+
+.slide {
+    display:inline-block;
+    width:720px;
+    height:540px;
+}
+

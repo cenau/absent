@@ -1,0 +1,30 @@
+
+body {
+    font-family:'Courier';
+    margin:0; 
+    font-size:small;
+}
+
+h1 {
+    font-size:6em;
+    background:white;
+
+}
+h2 {
+    font-size:4em;
+}
+
+h3 {
+    font-size:2em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    background:white;
+    float: left;
+    clear: left;
+    margin:0.5rem;
+    margin:0.5rem;
+    padding:0.5rem;
+    
+}
+
