@@ -1,15 +1,21 @@
 #Absent 
 Work in progress prototype for making presentations in markdown.
 
-To install
+##To install
 
 `npm install -g cenau/absent`
 
-To use 
+##To use 
 
 `absent <markdown file>`
 
-For help
+##Special formatting
+
+Line breaks `---` are used to mark the end of a slide. 
+
+Images `![](image.png)`are used as the background of the slide. The last image you include on a slide will be used.
+
+##For help
 
 `absent --help`
 
